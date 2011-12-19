@@ -1,0 +1,8 @@
+Change-Id: I917be1e41bc8ffe68e86718bcc4ee35ca65c4e1b
+Code-Review+2: Steve Kondik <shade@chemlab.org>
+Verified+1: Steve Kondik <shade@chemlab.org>
+Submitted-by: Steve Kondik <shade@chemlab.org>
+Submitted-at: Mon, 19 Dec 2011 04:56:15 +0300
+Reviewed-on: http://review.cyanogenmod.com/10789
+Project: CyanogenMod/android_packages_apps_DockAudio
+Branch: refs/heads/gingerbread
